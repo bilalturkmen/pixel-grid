@@ -1,4 +1,4 @@
-# 🎨 Pixel Grid | Modern Developer Showcase
+# Pixel Grid | Modern Developer Showcase
 
 https://pixel-gridx.netlify.app/
 
