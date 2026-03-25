@@ -1,4 +1,4 @@
-# Pixel Grid | Modern Developer Showcase
+# Pixel Grid | A clean and minimal portfolio template
 
 https://pixel-gridx.netlify.app/
 
