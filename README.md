@@ -1,6 +1,6 @@
-# 🖼️ Pixel Grid | Modern Developer Showcase
+# 🎨 Pixel Grid | Modern Developer Showcase
 
-https://theory-mastery.netlify.app/
+https://pixel-gridx.netlify.app/
 
 **Pixel Grid** is a modern coding exercise project that highlights frontend development skills and portfolio design, built with clean architecture and a minimalist UX approach.
 
