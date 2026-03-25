@@ -3,6 +3,8 @@
 /* --- 1. VARIABLES & THEMES --- */
 :root {
   --bg-primary: #fcfcfd;
+  background-color: var(--bg-primary);
+  color: #1e293b;
   --bg-secondary: #f1f5f9;
   --text-main: #0f172a;
   --text-muted: #64748b;
@@ -20,6 +22,8 @@
 
 :root.dark {
   --bg-primary: #020617;
+  background-color: var(--bg-primary);
+  color: #f1f5f9;
   --bg-secondary: #0f172a;
   --text-main: #f1f5f9;
   --text-muted: #94a3b8;
@@ -43,7 +47,7 @@ body {
   background-color: var(--bg-primary);
   color: var(--text-main);
   font-family: 'Inter', system-ui, sans-serif;
-  transition: background-color var(--transition), color var(--transition);
+  transition: background-color 0.3s ease, color 0.3s ease;
   -webkit-font-smoothing: antialiased;
   line-height: 1.6;
 }
