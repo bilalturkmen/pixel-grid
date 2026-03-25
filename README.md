@@ -12,7 +12,7 @@ https://theory-mastery.netlify.app/
 - Applied a minimalist slate palette, strong visual hierarchy, and subtle indigo accents for clean typography.
 - This project strengthened my problem-solving skills and sharpened my attention to detail 💪.
 
-![](./public/screenshot-d.png)
+![](./public/screenshot.png)
 
 ## 🛠️ Build With:
 
