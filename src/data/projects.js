@@ -1,0 +1,51 @@
+// data/projects.js
+export const projects = [
+  {
+    title: "E-Commerce Platform",
+    description: "A full-stack shop with React and Node.js.",
+    tags: ["React", "Node", "Stripe"],
+    link: "#projects",
+    image: "https://images.unsplash.com/photo-1557821552-17105176677c?w=400",
+    type: "Fullstack",
+  },
+  {
+    title: "Simba Dashboard",
+    description: "Analytics tool with real-time data.",
+    tags: ["D3.js", "Firebase"],
+    link: "#projects",
+    image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=400",
+    type: "Frontend",
+  },
+  {
+    title: "AI Art Generator",
+    description: "Generate art using OpenAI API.",
+    tags: ["Next.js", "Tailwind"],
+    link: "#projects",
+    image: "https://images.unsplash.com/photo-1675271591211-126ad94e495d?w=400",
+    type: "AI",
+  },
+  {
+    title: "Fitness Tracker",
+    description: "Log workouts and track progress.",
+    tags: ["React Native", "Firebase"],
+    link: "#projects",
+    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?w=400",
+    type: "Mobile",
+  },
+  {
+    title: "Crypto Wallet",
+    description: "Modern dark-themed crypto dashboard.",
+    tags: ["Framer Motion", "React"],
+    link: "#projects",
+    image: "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=400",
+    type: "Frontend",
+  },
+  {
+    title: "Recipe Finder",
+    description: "Search 5000+ recipes by ingredients.",
+    tags: ["Spoonacular", "React"],
+    link: "#projects",
+    image: "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=400",
+    type: "Frontend",
+  },
+];
